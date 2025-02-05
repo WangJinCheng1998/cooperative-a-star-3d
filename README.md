@@ -4,7 +4,7 @@
 This repository contains a **Python implementation of Cooperative A*** for multi-agent pathfinding in a **3D environment**. The algorithm extends A* to handle **multiple agents** by considering obstacle avoidance in both **spatial and temporal dimensions**.
 
 ## 📷 Example Visualization
-![Cooperative A* Pathfinding](3D path.png)
+![Cooperative A* Pathfinding](3D_path.png)
 
 ## ✨ Features
 - **3D Multi-Agent Path Planning** 🛩️
